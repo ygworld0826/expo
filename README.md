@@ -10,4 +10,4 @@ A blockchain explorer built with React and TypeScript, interacting with the Kair
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/kairos-explorer.git
-   cd kairos-explorer
+   cd kairos-explore
